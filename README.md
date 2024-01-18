@@ -41,10 +41,10 @@
 ## 진행상황
 | 스터디 회차 | 학습 주제 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: |
-| 1회차 | [1주차](https://github.com/TUK-education-java/study/issues/1) | 2023.9.25 (월) |✔️|
-| 2회차 | [2주차](https://github.com/TUK-education-java/study/issues/3) | 2023.10.10 (화) |✔️|
-| 3회차 | [3주차](https://github.com/TUK-education-java/study/issues/6) | 2023.10.16 (월) |✔️|
-| 4회차 | [4주차](https://github.com/TUK-education-java/study/issues/8) | 2023.10.30 (월) |✔️|
-| 5회차 | [5주차](https://github.com/TUK-education-java/study/issues/10) | 2023.11.06 (월) |✔️|
-| 6회차 | [6주차](https://github.com/TUK-education-java/study/issues/12) | 2023.11.13 (월) |✔️|
-| 7회차 | [7주차](https://github.com/TUK-education-java/study/issues/14) | 2023.11.20 (월) |✔️|
+| 1회차 | [1주차](https://github.com/IMS-STUDY/Docker-Study/issues/1) | 2023.9.25 (월) |✔️|
+| 2회차 | [2주차](https://github.com/IMS-STUDY/Docker-Study/issues/3) | 2023.10.10 (화) |✔️|
+| 3회차 | [3주차](https://github.com/IMS-STUDY/Docker-Study/issues/5) | 2023.10.16 (월) |✔️|
+| 4회차 | [4주차](https://github.com/IMS-STUDY/Docker-Study/issues/7) | 2023.10.30 (월) |✔️|
+| 5회차 | [5주차](https://github.com/IMS-STUDY/Docker-Study/issues/9) | 2023.11.06 (월) |✔️|
+| 6회차 | [6주차](https://github.com/IMS-STUDY/Docker-Study/issues/11) | 2023.11.13 (월) |✔️|
+| 7회차 | [7주차](https://github.com/IMS-STUDY/Docker-Study/issues/13) | 2023.11.20 (월) |✔️|
