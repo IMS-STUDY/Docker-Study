@@ -1,4 +1,4 @@
-# IMS-Study - Docker
+# Docker Study
 
 
 ## 스터디 소개
