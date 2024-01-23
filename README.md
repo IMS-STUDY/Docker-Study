@@ -1,4 +1,4 @@
-# TUK-education-Docker = Te Docker
+# IMS-Study - Docker
 
 
 ## 스터디 소개
