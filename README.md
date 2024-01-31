@@ -41,10 +41,10 @@
 ## 진행상황
 | 스터디 회차 | 학습 주제 | 최종 회의록 | 스터디 (예정) 일자 | 진행 여부 |
 | :---: | :---: | :---: | :---: | :---: |
-| 1회차 | [1회차](https://github.com/IMS-STUDY/Docker-Study/issues/1) | [1회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/1week/1%ED%9A%8C%EC%B0%A8) | 2024.01.22 (월) |✔️|
-| 2회차 | [2회차](https://github.com/IMS-STUDY/Docker-Study/issues/3) | [2회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/2week/1%ED%9A%8C%EC%B0%A8) | 2024.01.24 (수) |✔️|
-| 3회차 | [3회차](https://github.com/IMS-STUDY/Docker-Study/issues/5) | [3회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/3week/1%ED%9A%8C%EC%B0%A8) | 2024.01.26 (금) |✔️|
-| 4회차 | [4회차](https://github.com/IMS-STUDY/Docker-Study/issues/7) | [4회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/4week/1%ED%9A%8C%EC%B0%A8) | 2024.01.29 (월) |✔️|
-| 5회차 | [5회차](https://github.com/IMS-STUDY/Docker-Study/issues/9) | [5회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/5week/1%ED%9A%8C%EC%B0%A8) | 2024.01.31 (수) |✔️|
-| 6회차 | [6회차](https://github.com/IMS-STUDY/Docker-Study/issues/11) | [6회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/6week/1%ED%9A%8C%EC%B0%A8) | 2024.02.02 (금) |✔️|
-| 7회차 | [7회차](https://github.com/IMS-STUDY/Docker-Study/issues/13) | [7회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/7week/1%ED%9A%8C%EC%B0%A8) | 2024.02.05 (월) |✔️|
+| 1회차 | [1회차](https://github.com/IMS-STUDY/Docker-Study/issues/1) | [1회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/1week/1%ED%9A%8C%EC%B0%A8.md) | 2024.01.22 (월) |✔️|
+| 2회차 | [2회차](https://github.com/IMS-STUDY/Docker-Study/issues/3) | [2회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/2week/2%ED%9A%8C%EC%B0%A8.md) | 2024.01.24 (수) |✔️|
+| 3회차 | [3회차](https://github.com/IMS-STUDY/Docker-Study/issues/5) | [3회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/3week/3%ED%9A%8C%EC%B0%A8) | 2024.01.26 (금) |✔️|
+| 4회차 | [4회차](https://github.com/IMS-STUDY/Docker-Study/issues/7) | [4회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/4week/4%ED%9A%8C%EC%B0%A8) | 2024.01.29 (월) |✔️|
+| 5회차 | [5회차](https://github.com/IMS-STUDY/Docker-Study/issues/9) | [5회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/5week/5%ED%9A%8C%EC%B0%A8) | 2024.01.31 (수) |✔️|
+| 6회차 | [6회차](https://github.com/IMS-STUDY/Docker-Study/issues/11) | [6회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/6week/6%ED%9A%8C%EC%B0%A8) | 2024.02.02 (금) |✔️|
+| 7회차 | [7회차](https://github.com/IMS-STUDY/Docker-Study/issues/13) | [7회차 회의록](https://github.com/IMS-STUDY/Docker-Study/blob/main/7week/7%ED%9A%8C%EC%B0%A8) | 2024.02.05 (월) |✔️|
