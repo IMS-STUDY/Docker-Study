@@ -3,7 +3,7 @@
 
 ## 스터디 소개
  - Docker 기본 개념부터 깊은 이해까지 학습하기 위한 스터디입니다.
- - 개발자 백기선님의 [자바 스터디의 커리큘럼](https://github.com/whiteship/live-study/issues?q=is%3Aissue+is%3Aclosed)을 따라 진행합니다.
+ - 도커 교과서, 도커 쿠버네티스 책을 중심으로 학습을 진행합니다.
 
 
 | 스터디 멤버 | 레포지토리 |
